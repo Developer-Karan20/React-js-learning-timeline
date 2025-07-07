@@ -11,3 +11,5 @@ export default {
   plugins: [],
 }
 
+//remember to change config in taliwind
+
